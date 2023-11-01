@@ -14,3 +14,4 @@ Presented a roadmap for its core business that is designed to bring key benefits
 
 In summary, this project has been a success. Airbnb is still a growing company, and this project has provided us with new insight into how they operate. 
 As a team we all felt that our learning objectives were met during this project, and we look forward to putting this knowledge to use in our future careers.
+
